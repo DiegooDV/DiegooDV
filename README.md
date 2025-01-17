@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego De la Vega</h1>
 <h3 align="center">Software Engineer | Full Stack Web Developer</h3>
 
-- 📫 How to reach me **diegodelavega107@gmail.com** <a href="https://linkedin.com/in/diegoodv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegoodv" height="30" width="40" /></a>
+- 📫 How to reach me **diego.dll@outlook.com** <a href="https://linkedin.com/in/diegoodv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegoodv" height="30" width="40" /></a>
 
 - 📄 Know about my experiences [https://diegodelavegae.com](https://diegodelavegae.com)
 
